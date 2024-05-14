@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jormellopaniagua/static/css/main.7acaea2f.css",
-    "main.js": "/jormellopaniagua/static/js/main.bb7b5365.js",
+    "main.js": "/jormellopaniagua/static/js/main.bf22bc8e.js",
     "index.html": "/jormellopaniagua/index.html",
     "main.7acaea2f.css.map": "/jormellopaniagua/static/css/main.7acaea2f.css.map",
-    "main.bb7b5365.js.map": "/jormellopaniagua/static/js/main.bb7b5365.js.map"
+    "main.bf22bc8e.js.map": "/jormellopaniagua/static/js/main.bf22bc8e.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.bb7b5365.js"
+    "static/js/main.bf22bc8e.js"
   ]
 }
