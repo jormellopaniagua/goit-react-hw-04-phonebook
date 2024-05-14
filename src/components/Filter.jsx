@@ -6,7 +6,6 @@ import Label from './styledComponents/Label';
 const Filter = ({ filter, onChange }) => {
   return (
     <FilterStyled>
-      {/* Etiqueta y entrada para filtrar contactos por nombre */}
       <Label htmlFor="filter">Filter contacts by name:</Label>
       <Input
         type="text"
@@ -20,4 +19,3 @@ const Filter = ({ filter, onChange }) => {
 };
 
 export default Filter;
-//
